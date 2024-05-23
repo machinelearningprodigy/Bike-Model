@@ -7,7 +7,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from PIL import Image
 
-model = tf.keras.models.load_model('anchal_model.keras')
+model = tf.keras.models.load_model('anchal_model.h5')
 
 def preprocess_image(img_path):
     img = Image.open(img_path).convert('RGB')

@@ -23,7 +23,7 @@ def predict_image(model, img_path):
     decoded_predictions = decode_predictions(predictions, top=5)[0]
     return decoded_predictions
 
-st.title("Model Minde Bike Classifier")
+st.title("Model Minder Bike Classifier")
 
 st.markdown(
     """

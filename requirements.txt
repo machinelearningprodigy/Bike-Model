@@ -1,7 +1,7 @@
 pandas
 Requests
 streamlit
-tensorflow
+tensorflow==2.12.0
 numpy
 matplotlib
 Pillow

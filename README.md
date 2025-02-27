@@ -1,6 +1,6 @@
 # 🚴 Model Minder Bike Classifier 🚴  
 
-This project was developed for some seniors at my college as their final year project. It is a **Streamlit-based image classification app** that uses a pre-trained **EfficientNetB0** model to classify bike images. Simply upload an image, and the model will predict the **top-5 possible bike categories** along with their confidence scores.  
+This project was developed by solely me for some seniors at my college as their final year project. It is a **Streamlit-based image classification app** that uses a pre-trained **EfficientNetB0** model to classify bike images. Simply upload an image, and the model will predict the **top-5 possible bike categories** along with their confidence scores.  
 
 ## ✨ Features  
 🔹 Upload an image of a bike 🏍️  
